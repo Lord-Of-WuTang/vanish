@@ -15,7 +15,7 @@ This project investigates a retail company's declining customer purchases over t
 | File Name                  | Description                                      |
 |---------------------------|--------------------------------------------------|
 | `vanishing_customers.csv` | Simulated transaction data over 6 months         |
-| `analyze_vanish.py`       | Python script for full data analysis             |
+| `vanishing.py`       | Python script for full data analysis             |
 | `README.md`               | Project documentation and story outline          |
 
 ---
@@ -51,7 +51,7 @@ This project investigates a retail company's declining customer purchases over t
 1. Clone the repo:
    ```bash
    git clone https://github.com/Lord-Of-WuTang/vanish.git
-   cd vanish
+   cd vanishing
    ```
 
 2. Install dependencies:
@@ -61,11 +61,12 @@ This project investigates a retail company's declining customer purchases over t
 
 3. Run the analysis:
    ```bash
-   python analyze_vanish.py
+   python vanishing.py
    ```
 
 ---
 
 ## 🧠 Final Insight
+
 
 This project shows how data storytelling can uncover hidden causes behind business problems—and how Python can turn raw data into actionable insights.
